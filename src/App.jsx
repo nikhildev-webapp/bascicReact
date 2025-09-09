@@ -1,7 +1,7 @@
 import Chai from "./Chai";
 
 function App() {
-  return <Chai/>;
+  return <Chai name='nikhil'/>;
 }
 
 export default App;
